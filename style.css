@@ -1,0 +1,133 @@
+header {
+	   background-color: CornflowerBlue;
+	   background-size: cover;
+	   /*background-color: DodgerBlue;*/
+	   /*background-color: RoyalBlue ;*/
+}
+h1 {
+	text-align: center;
+	font-family: Times New Roman;
+	font-size: 30px;
+	color: white;
+}
+
+ul#ul1 li {
+	  color: white;
+	  display: inline-block;
+}
+
+button {
+	   float: Right;
+	   
+        
+}
+
+navbar ul  li{
+	     background-color: DarkSlateBlue  ;
+	     color: white;
+		 border: collapse;
+		 
+		 display: inline-block;
+		 padding: 20px;
+		 overflow: hidden;
+}
+
+div#A1{
+	      font-family: Times New Roman;
+		  font-size: 20px;
+		  background-color: ForestGreen ;
+		  color: white;
+		  padding: 10px;
+}
+
+.program {
+	        background-color: Lavender ;
+			column-count: 3;
+		
+			
+}
+
+.program h3 {
+	         color: CornflowerBlue ;
+			 font-family: Arial;
+}
+
+#D1 {
+	background-color: DarkOrchid ;
+	color: White;
+	font-size: 30px;
+	 padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+	width: 250px;
+	height: 250px;
+}
+
+#D2 {
+	background-color: CornflowerBlue  ;
+	color: White;
+	font-size: 30px;
+	 padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+	width: 250px;
+	height: 250px;
+}
+
+.btn {
+	   background-color: white;
+	   border: 2px solid lightblue;
+	   color: CornflowerBlue;
+	   width: 20%;
+	   display: inline-block;
+	   font-size: 16px;
+	   padding: 20px;
+	   float: left;
+	   margin: 4px 2px;
+}
+
+#footer {
+	     background-color: black;
+		 color: white;
+		 padding: 80px;
+		 margin: 10px;
+}
+
+#footer h5 {
+	        color: white;
+			font-size: 30px;
+			font-family: Arial;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
